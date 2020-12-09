@@ -1,0 +1,26 @@
+@charset "utf-8";
+header{font-family:Verdana, Geneva, sans-serif;
+color:#F96}
+body{background-color:#CC9}
+a{ text-decoration:none;
+padding-right:18px;
+color:#333;
+font-family:Georgia, "Times New Roman", Times, serif;}
+nav{position:absolute;
+margin:20px;
+left:25%;}
+#primer_div{position:absolute;
+top:30%;}
+.nom{ font-size:19px}
+.nom2{ font-size:16px}
+#imagen{width:600px;
+height:400px;
+position:absolute;
+left:25%;}
+#segundo_div{ position:absolute;
+top:115%}
+#imagen2{width:430px;
+height:340px;}
+a:hover{color:#F60;}
+.lista{ list-style-type:none;}
+
