@@ -1,0 +1,37 @@
+@charset "uft-8";
+body{
+	background-color:#F2F2F2;
+	}
+	UL{
+	list-style:none;
+	float: right;
+	padding:10px;
+	font-size:16pt;
+	color:#C57C05;
+	
+	}
+	.lista li{
+	font-family:candara; 
+	}
+	.lista2 li{
+	font-family:constantia;
+	}
+	.lista3 li{
+	font-family:constantia;
+	}
+	.lista4 li{
+	font-family:candara;
+	}
+	img{
+	width:100%
+	}
+	a{
+		text-decoration: none;
+		color:#C57C05;
+	}
+	
+	
+	
+	
+	
+	
