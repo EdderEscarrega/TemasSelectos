@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+.titulo{text-align:center;
+color:#3C9;
+font-family:Georgia, "Times New Roman", Times, serif}
+#primer{}
+body{ background-image:url(bgg.jpg)}
+nav{position:absolute;
+margin:20px;
+left:37%;
+top:20%}
+a{ text-decoration:none;
+padding-right:18px;
+color:#333;
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:20px;}
+#giff{ height:25%;
+width:35%}
+#seg{ position:absolute;
+top:30%;
+left:6%;
+text-align:center;}
+.enlaces:hover{ color:#F00;}
+#music{ position:absolute;
+top:90%;
+left:77%}
+.pra:hover{ color:#099;
+font-family:Georgia, "Times New Roman", Times, serif;}
