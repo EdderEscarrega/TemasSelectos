@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gastronomia</title>
+	<meta http-equiv="Content.Type" content="text/html;charset=uft-8">
+    <link rel="StyleSheet" href="diseno_5.css" type="text/css">
+    <link rel="icon" type="image/jpg" href="https://image.freepik.com/vector-gratis/diseno-chef-color_1152-73.jpg">
+    <script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+    </script>
+</head>
+    <body onLoad="MM_preloadImages('Inicio_2.fw.png','boton3_servicios3.fw.png','boton6_tipos de postres2.fw.png','boton4_about4.fw.png','boton5_contactanos5.fw.png','boton2_platillos2.fw.png')">
+    	  <table id="principal-table">
+          <tr>
+          		<td colspan="4"> 
+                <img src="banner.png"  class="banner"/>
+                
+                </td>
+          </tr>
+          <tr>
+          	<td colspan="4" cellpadding="0" cellspacing="0" >
+            <ul><li><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image2','','Inicio_2.fw.png',1)"><img src="Inicio.fw.png" width="250" height="90" id="Image2"></a></li></ul>
+            <ul><li><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image3','','boton2_platillos2.fw.png',1)"><img src="boton2_platillos.fw.png" width="250" height="90" id="Image3"></a></li></ul>
+            <ul><li><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image4','','boton3_servicios3.fw.png',1)"><img src="boton3_servicios.fw.png" width="250" height="90" id="Image4"></a></li></ul>
+            <ul><li><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image5','','boton6_tipos de postres2.fw.png',1)"><img src="boton6_tipos de postres.fw.png" width="250" height="90" id="Image5"></a></li></ul>
+            <ul><li><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','boton4_about4.fw.png',1)"><img src="boton4_about.fw.png" width="250" height="90" id="Image6"></a></li></ul>
+            <ul><li><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image7','','boton5_contactanos5.fw.png',1)"><img src="boton5_contactanos.fw.png" width="250" height="90" id="Image7"></a></li></ul>       	
+            <tr>
+          	<td colspan="4">
+            <div class="imagen1">
+            <img src="p1.jpg" id="t1"/>
+            </div>    
+              </td>
+          </tr>
+          <tr><td  colspan="4">
+          <div id="texto"><B id="texto2" class="text">Aqui puedes ver algunos de nuestros platillos que ofrecemos en</B><B id="texto3" class="text">...mMm... DeliciosO</B>, estamos ansiosos de poder ayudar no dudes en llamarnos, somos tu mejor opción</div></td></tr>
+          <tr>
+          <td colspan="4">
+          <marquee id="marq" onmouseover="stop()" onmouseout="start()"> 
+          <img src="7_1.jpg" class="cuatro-imagenes"/>
+          <img src="7_2.jpg" class="cuatro-imagenes"/>
+          <img src="7_3.jpg" class="cuatro-imagenes"/>
+          <img src="7_4.jpg" class="cuatro-imagenes"/>
+          </marquee>
+          </td>
+          </tr>
+            <tr>
+          	<td colspan="4">
+            <B class="sitio">Bienvenido a nuestro sitio web,</B> <B class="sitio2">...mMm... DeciliciosO</B><B class="sitio3">,aquí realmente estamos
+			interesados en otorgarle el mejor servicio de platillos de comida como también postres exquisitos. Por ello siempre estamos con las puertas abiertas para otorgarle el mejor de los servicios.</B>
+              </td>
+          </tr>
+            <tr >
+          	<td colspan="4" border="6" >
+            <img src="imagen.fw.png" class="imagen2"/>
+             <img src="imagen2.fw.png" class="imagen2"/>
+             <img src="gif animado.gif" id="imagen3"/>
+              </td>
+          </tr>
+            <tr>
+          	<td colspan="3" >
+            <B>Tienes antojo de algo rico de comer, nosotros nos encargamos. </B>
+            <b><br> No dudes en llamarnos y veras que tu experiencia será unica.</br></b>
+			<img src="imagen3.fw.png" id="imagen4"/>
+              </td> 
+                <td>
+                <img src="descuento.fw.png" id="imagen5"/>
+              </td>
+          </tr>
+            <tr>
+          	<td class="p11"colspan="2">
+            <div id="p111">
+            	<img src="promocion.png"class="imagen6"/>
+              </div>
+              </td>
+                <div id="p112">
+                <td class="p112" colspan="2">
+				<img src="promo2.png" class="imagen6"/>               
+              </div>
+                 </td>
+          </tr>
+            <tr>
+          	<td  class="colort" colspan="4" >
+            <div id="ult">
+            	<br> <b>Contáctanos por via movil, y tu comida llegara a la puerta de tu casa.</b></br>
+                 <img src="comida.jpg"  class="imagen7"/>
+              </div>
+              </td>
+          </tr>
+            <tr>
+          	<td colspan="2" >
+           		<b>Telefono: (615)-152-0803</b>
+                  	<br><b>Ubicación: Blvrd Lázaro Cárdenas 4500, Villa Bonita, 21379 Mexicali, B.C.</b></br>
+                  <b>WhatsApp: (615)-155-0986</b>
+              </td>
+               <td  rowspan="3" colspan="2">
+              <img src="mapa.fw.png" id="imagen8"/>
+               </td>
+          </tr>
+            <tr>
+          	<td colspan="2">
+            
+              </td>
+          </tr>
+            <tr>
+          	<td colspan="2">
+            	
+              </td>
+          </tr>
+            <tr>
+          	<td colspan="4">
+            <b> © Copyright 2001-2020. Copyright.mx - Todos los derechos reservados – Legal.</b>
+              </td>
+          </tr>
+          </table>
+</body>
+</html>

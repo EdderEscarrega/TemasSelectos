@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	  background-color:#FFC
+	  
+}
+#principal-table{ margin:0 auto; width:1200px; cellpadding:0; cellspacing:0 ;border:0}
+.banner{ width:1500px; margin:0 auto;}
+.imagen1{text-align:center}
+#t1{width:1200px; height:500px; border-radius:20px}
+.imagen2{width:326px; height:338px;}
+#imagen3{ width:505px; height:338px;}
+#imagen4{width:450px; height:265px;}
+#imagen5{width:576px; height:339px;}
+.imagen6{width:530px; height:450px;}
+.imagen7{width:389px; height:296px;}
+#imagen8{width:600px; height:265px;} 
+.sitio {color:	#000; font-family:Verdana, Geneva, sans-serif; font-size:20px;}
+.sitio2{color:#930; font-size:24px}
+.sitio3{color:#000;font-family:Verdana, Geneva, sans-serif; font-size:font-size:20px;}
+.p11{ background-color:#F96}
+.p112{background-color:#F96}
+.colort{color:#930}
+#texto{font-size:20px;}
+#texto2{ color:#C00}
+#texto3{color:#930}
+.text{ text-align:center;}
+.cuatro-imagenes{width:220px; height:150px;}
+#marq{scrollamount:2; scrolldelay:100;
+direction:left;}
+ul{float:left; list-style:none; padding-left:0px; margin: 0 auto;}
+li{ padding-bottom:0px}
+#p111{text-align:right}
+#p112{text-align:left}
+#ult{text-align:center}

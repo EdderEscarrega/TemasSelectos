@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+#Cred{ width:100%; height:20%; background-color:#F00; border-radius:40px; }
+#Cred1{ text-align:center; font-size:24px}
+#Cblue{width:20%; height:61%; background-color:#00F; border-radius:40px;}
+#Cblue1{ text-align:left; font-size:24px}
+#Cyellow{ width:59%; height:61%; background-color:#FF0; border-radius:40px; position:relative}
+#Cyellow1{ text-align:center;font-size:24px;}
+#Cyellow2{ width:10%; height:5%; background-color:#FF0; position:absolute; right:44%; bottom:40%}
+.relat{font-size:24px;}
+#Cazul{ width:19.7%; height:61%; background-color:#0CF; border-radius:40px; padding-left:16px}
+#Cazul1{ text-align:left;font-size:24px;}
+
+#Cpurple{ width:100%; height:18%; background-color:#606; border-radius:40px;}
+#Cpurple1{font-size:24px}
+.alinear{ float:left;}
+.alinear2{ float:right}
+.alinear3{ float:right}
+
+
