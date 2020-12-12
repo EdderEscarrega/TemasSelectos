@@ -1,0 +1,20 @@
+@charset "utf-8";
+header{font-family:Verdana, Geneva, sans-serif;
+color:#F96}
+body{background-color:#CC9;
+font-family:Verdana, Geneva, sans-serif;}
+#msj{ position: absolute;
+top:0%;
+left:22%;
+}
+#send{position:absolute;
+left:36%;
+top:28%;}
+#enviar{ background:#03F;}
+p{ margin:35px}
+#bor{
+border:#F00 3px double ;
+width:650px;
+height:260px;
+}
+span{color:#F00;}

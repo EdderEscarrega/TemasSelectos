@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="StyleSheet" href="../Practica17/p17css.css" type="text/css">
+<title>Formulario</title>
+</head>
+<body>
+<section>
+<div id="bor">
+<div>
+<form>
+<p>Nombre <span>(requerido)</span><br><input type="text" name="Nombre"></p>
+<p>Email <span>(requerido)</span><br><input  type="email" name="Email"></p>
+<p>Asunto <br><input type="text" name="Asunto"></p>
+</form>
+</div>
+<div id="msj">
+<form>
+<p>Mensaje <span>(requerido)</span><br><textarea name="Mensaje" id="" cols="40" rows="10"></textarea></p>
+</form>
+</div>
+<div id="send">
+<form>
+<p><input type="submit" value="Enviar mensaje" id="enviar"></p>
+</form>
+</div>
+</div>
+</section>
+</body>
+</html>
