@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+body{ background:#F0E8D5;}
+#tt{position:absolute;
+top:10%;
+left:41%;
+font-size:22px;
+color:#06C;
+font-family:"Times New Roman", Times, serif;}
+#imag{ position:absolute;
+top:19%;
+left:43%;}
+#ig{height:70px;
+width:90px;}
+#bg{ width:100%;
+height:60px;
+background-color:#06F;}
+#pp{position:absolute;
+top:30%;
+left:44%;
+font-family:"Times New Roman", Times, serif;}
+#ubicacion{position:absolute;
+top:36%;
+left:39%;}
+#imgg{ height:150px;
+width:230px;}
+#pp2{position:absolute;
+top:64%;
+left:44%;
+font-family:"Times New Roman", Times, serif;}
+#tel{ position:absolute;
+top:65%;
+left:40.5%;
+}
+#tel_img{height:30px;
+width:40px;}
+#mail{ position:absolute;
+top:81%;
+left:40.5%;
+}
+#mail_img{height:30px;
+width:40px;}
+#fb{ position:absolute;
+top:91%;
+left:40.5%;
+}
+#fb_img{height:30px;
+width:40px;}
+#menu{position:absolute;
+left:90%;
+top:11%;}
+a{text-decoration:none;}
+.enlaces:hover{color:#09F;}
